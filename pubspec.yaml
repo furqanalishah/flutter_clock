@@ -30,6 +30,8 @@ dependencies:
   cupertino_icons: ^1.0.2
 
 dev_dependencies:
+  provider: ^5.0.0
+  dotted_border: ^2.0.0+1
   intl: ^0.17.0
   flutter_test:
     sdk: flutter
